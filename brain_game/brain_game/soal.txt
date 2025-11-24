@@ -1,0 +1,158 @@
+1 0 Matematika
+
+1 1 Berapa 5 x 7 - 6 x 5
+1 A 5
+0 B 6
+0 C 7
+0 D 4
+
+1 2 (21 / 3) x 4 - 50 / 5 | Mengikuti aturan operasi perhitungan, Bagian mana yang harus pertama kali dikerjakan? 
+0 A 50 / 5
+0 B 4 - 50
+1 C 21 / 3
+0 D 50 / 5 - 4
+
+1 3 Berapa 7/0 
+0 A 1
+1 B Tak Terdefinisi
+0 C Tak Terbatas
+0 D 0
+
+1 4 Kalau 2 lusin adalah 24 buah, 2 kodi adalah...
+0 A 20 buah
+0 B 30 buah
+0 C 14 buah
+1 D 40 buah
+
+1 5 Pak Bahlil meninggalkan rumah pada pukul 03:00, menuju arah selatan menaiki motor dengan kecepatan 50 Km/jam. Pak Prabowo meninggalkan rumah pada pukul 04:00, menuju arah utara menaiki mobil dengan kecepatan 60 km/jam. Kalau Pak Bahlil harus berhenti di pom bensin untuk isi ulang bensin selama 30 menit. Berapa 35/7?
+1 A 5
+0 B 6
+0 C 7
+0 D 8
+
+2 0 Geografi
+
+2 1 Indonesia pernah dijajah oleh Belanda, kota-kota Indonesia dinamai berdasarkan bahasa mereka. Sebelum perubahan, Kota Bogor dinamakan Kota...
+1 A Buitenzorg
+0 B Daalen Geberte
+0 C Emmahaven
+0 D Fort de kock
+
+2 2 Kota Batusangkar terletak di provinsi...
+0 A Sumatera Utara
+0 B Jawa Barat
+1 C Sumatera Barat
+0 D Aceh
+
+2 3 Berikut negara yang bukan bagian Benua Asia Tenggara!
+0 A Kamboja
+0 B Timor Leste
+1 C Korea Selatan
+0 D Vietnam
+
+2 4 Negara apa yang memiliki populasi terbesar di dunia?
+0 A Indonesia
+1 B Tiongkok
+0 C Amerika
+0 D Jepang
+
+2 5 Negara dengan populasi penduduk paling sedikit di dunia adalah...
+0 A Jepang
+0 B Nauru
+0 C San Marino
+1 D Vatican
+
+3 0 Geometri
+
+3 1 Sebuah segitiga memiliki alas 12 cm dan tinggi 8 cm. Berapakah luas segitiga tersebut?
+0 A 24 cm2
+0 B 36 cm2
+1 C 48 cm2
+0 D 96 cm2
+
+3 2 Diketahui persegi panjang memiliki keliling 46 cm dan panjang 15 cm. Berapakah lebarnya?
+0 A 8 cm
+1 B 11 cm
+0 C 16 cm
+0 D 23 cm
+
+3 3 Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah kelilingnya? (pi = 22/7)
+0 A 22 cm
+0 B 44 cm
+0 C 66 cm
+1 D 88 cm
+
+3 4 Sebuah kubus memiliki panjang rusuk 5 cm. Berapakah volumenya?
+0 A 25 cm3
+0 B 75 cm3
+0 C 100 cm3
+1 D 125 cm3
+
+3 5 Sebuah trapesium memiliki sisi sejajar 10 cm dan 18 cm serta tinggi 6 cm. Berapakah luasnya?
+0 A 42 cm2
+0 B 48 cm2
+0 C 72 cm2
+1 D 84 cm2
+
+4 0 Kewarganegaraan
+
+4 1 Hubungan Proklamasi Kemerdekaan Republik Indonesia dengan Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 adalah...
+1 A Proklamasi Kemerdekaan Indonesia lahir karena adanya Pembukaan Undang-Undang Dasar
+0 B Alinea pertama dalam pembukaan merupakan uraian singkat dari kalimat pertama proklamasi kemerdekaan
+0 C Alinea pertama, kedua dan ketiga dalam Pembukaan merupakan uraian rinci dari kalimat pertama proklamasi kemerdekaan
+0 D Alinea keempat dalam Pembukaan merupakan uraian rinci dari kalimat pertama proklamasi kemerdekaan
+
+4 2 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 memiliki sifat...
+0 A Tertulis, memuat norma-norma/ataruan-aturan/ketentuan-ketentuan yang harus dilaksanakan secara konstitusional dan memuat aturan yang sangat terperinci.
+0 B Merupakan hukum positif yang tertinggi, memuat norma-norma/aturan-aturan/ketentuan-ketentuan yang harus dilaksanakan secara konstitusional dan memuat aturan yang sangat terperinci.
+0 C Tertulis, merupakan hukum positif yang tertinggi, dan memuat aturan yang sangat terperinci.
+1 D Tertulis, memuat norma-norma/ataruan-aturan/ketentuan-ketentuan yang harus dilaksanakan secara konstitusional dan merupakan hukum positif yang tertinggi.
+
+4 3 Negara Indonesia menggunakan sistem pemerintahan...
+0 A Parlementer
+1 B Presidensial
+0 C Monarki
+0 D Absolutisme
+
+4 4 Negara yang menganut sistem pemerintahan parlementer adalah...
+0 A Indonesia
+0 B Amerika Serikat
+1 C Inggris
+0 D Brazil
+
+4 5 Pancasila mengandung nilai instrumental yaitu...
+0 A Nilai-nilai yang sudah mengakar dalam kepribadian masyarakat Indonesia
+1 B Penjabaran lebih lanjut dari pasal-pasal UUD 1945
+0 C Nilai-nilai yang dijunjung tinggi oleh sebagian masyarakat Indonesia
+0 D Penjabaran lebih lanjut dari nilai-nilai dasar ideologi Pancasila
+
+5 0 English Questionnaire 
+
+5 1 Robert is ... the floor.
+1 A Sweeping
+0 B Eating
+0 C Traveling
+0 D Swimming
+
+5 2 The capital city of North Sumatera is...
+0 A Bandung
+0 B Surabaya
+0 C Semarang
+1 D Medan
+
+5 3 The antonym of "Above" is...
+0 A Before
+1 B Below
+0 C Next to
+0 D Between
+
+5 4 Jessica: Will you have lunch with me? \
+Samantha: I'd love to, but I am still full. I ... my lunch.
+0 A Have
+1 B Have had
+0 C Will have
+0 D Am having
+
+5 5 Bonus question. pick A.
+1 A Thank you!
+0 B Nope.
